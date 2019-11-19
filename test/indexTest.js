@@ -19,6 +19,7 @@ describe('index.js', function () {
       { name: 'Jim',     revenue: 150 },
       { name: 'Sally',   revenue: 200 }
     );
+
   });
 
   describe('driversWithRevenueOver()', function () {
